@@ -1,0 +1,9 @@
+src/main/java/com/ecommerce/
+├── config/          (Security, JWT configs)
+├── controller/      (REST Controllers)
+├── dto/            (Request & Response DTOs)
+├── entity/         (JPA Entities)
+├── repository/     (Spring Data JPA)
+├── service/        (Business Logic)
+├── exception/      (Custom Exceptions & Handler)
+└── util/           (Helper classes, JWT Utils)
