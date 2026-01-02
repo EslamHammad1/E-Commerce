@@ -1,43 +1,71 @@
-# 🛒 E-Commerce Backend API – Spring Boot
+# 🛒 E-Commerce Backend – Spring Boot
 
-A **production-ready E-Commerce Backend API** built with **Spring Boot 3.2**, designed using clean architecture principles and real-world business logic.
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-3.2-brightgreen)
+![Database](https://img.shields.io/badge/Database-MySQL-blue)
+![Security](https://img.shields.io/badge/Security-JWT-red)
 
-This repository can be used as a **starter template** or a **reference backend** for scalable e-commerce systems.
+A **production-ready E-Commerce Backend API** built with **Spring Boot 3.2**, implementing real-world business logic and clean backend architecture.
 
----
-
-## 📸 Screenshots & API Preview
-
-### 🔐 Authentication (Register & Login)
-![Auth API](screenshots/auth.png)
-
-### 🛍️ Products & Categories
-![Products API](screenshots/products.png)
-
-### 🛒 Shopping Cart
-![Cart API](screenshots/cart.png)
-
-### 📦 Orders & Checkout
-![Orders API](screenshots/orders.png)
-
-> Screenshots taken from **Postman API Testing**
+Designed to be used as a **starter template**, **learning reference**, or **scalable backend foundation**.
 
 ---
 
-## 🚀 Features Overview
+## 🚀 What This Project Does
+
+- Handles user authentication & authorization using JWT
+- Manages products and categories with full CRUD support
+- Provides a shopping cart system per user
+- Processes orders with checkout workflow
+- Calculates tax, shipping, and total amounts
+- Manages stock automatically
+- Supports image upload for products
+- Secures APIs with role-based access control
+
+---
+
+## 📌 Key Features
 
 - JWT Authentication & Authorization
 - Role-based Access Control (Admin / Customer)
 - Product & Category Management
 - Shopping Cart System
 - Order & Checkout Workflow
+- Stock & Price Snapshot Management
 - Address Management
 - Image Upload System
-- Stock & Price Management
 - Global Exception Handling
 - Pagination, Sorting, Search & Filter
+- Clean & Scalable Architecture
 
 ---
 
-## 🧱 Project Architecture
+## 🛠️ Tech Stack
 
+- Java 17
+- Spring Boot 3.2
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- MySQL
+- JWT
+- BCrypt
+- Maven
+- Lombok
+
+---
+
+## 🎯 Ideal Use Cases
+
+- E-Commerce Backend API
+- Spring Boot Starter Template
+- Backend Portfolio Project
+- Clean Architecture Reference
+
+---
+
+## 👤 Author
+
+**Eslam Hammad**  
+Backend Developer – Java & Spring Boot
