@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Backend – Spring Boot
+# 🛒 E-Commerce API | Spring Boot
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Java](https://img.shields.io/badge/Java-17-orange)
